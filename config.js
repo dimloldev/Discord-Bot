@@ -1,5 +1,5 @@
 module.exports = {
-        TOKEN: 'OTM4MjQxMzUxMjY1NDIzNDAw.G5ezcQ.p-RalpHGY_GK60fmRTAR2G0S0Zvns2nqSI6P3I',
+        TOKEN: 'HERE GOES YOUR TOKEN!',
         px: '!',
         playing: 'Madona in X-Factor!',
 
