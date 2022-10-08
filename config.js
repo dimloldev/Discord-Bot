@@ -1,7 +1,7 @@
 module.exports = {
         TOKEN: 'HERE GOES YOUR TOKEN!',
         px: '!',
-        playing: 'Madona in X-Factor!',
+        playing: '',
 
     opt: {
         DJ:{
